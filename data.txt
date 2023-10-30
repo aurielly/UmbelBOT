@@ -1,0 +1,2 @@
+slug1,channelname1
+slug2,channelname2
